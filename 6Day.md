@@ -9,3 +9,4 @@
 ---
 디자이너가 없어도 Figma를 통해서 초안을 구상해서 볼 수 있었다<br>
 조금 더 생각해서 더 재밌는 걸 만들자😊<br>
+![Chipmunk](https://github.com/YoungjaeJang7/TIL/blob/main/image-2.png)
